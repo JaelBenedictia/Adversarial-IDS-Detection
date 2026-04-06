@@ -25,8 +25,8 @@ dataset/
 models/
 src/
 results/
+project report
 
-# project report
 # Author
 Jael Benedictia
 Department of Electronics and Communication Engineering
